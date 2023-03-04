@@ -4,13 +4,13 @@ import {getDatabase} from "firebase/database";
 import { getFirestore} from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAagtnx9xWBwgU6DTF5WG8ABBzvKGuNLc8",
-  authDomain: "car-parking-system-275a8.firebaseapp.com",
-  databaseURL: "https://car-parking-system-275a8-default-rtdb.firebaseio.com",
-  projectId: "car-parking-system-275a8",
-  storageBucket: "car-parking-system-275a8.appspot.com",
-  messagingSenderId: "164544458296",
-  appId: "1:164544458296:web:a3d54482a0108ff6fdc0cd"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
